@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 💬 Ask me about **ReactJS, NODE.js, Exress.js, MongoDB**
+- 💬 Ask me about **ReactJS, Node.js, Express.js, MongoDB**
 
 - 📫 How to reach me [Click Here](mailto:samantrajagannath@gmail.com)
 
