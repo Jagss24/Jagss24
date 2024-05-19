@@ -1,10 +1,10 @@
 ![MasterHead](https://media.licdn.com/dms/image/D4D16AQG6q16F5ECxqQ/profile-displaybackgroundimage-shrink_350_1400/0/1687267499269?e=1719446400&v=beta&t=sB3cCqIDSOjXPi_uUek0lii-1i_Ie3j7X5VNuRgyy8Y)
 <h1 align="center">Hi 👋, I'm Jagannath Samantra</h1>
-<h3 align="center">I'm a MERN Stack developer skilled in both front-end and back-end development.</h3>
+<h3 align="center">I'm a React developer but skilled in both front-end and back-end development.</h3>
 
 - 👨‍💻 React Developer By Profession
 
-- 🌱 I’m currently building a project **VoiceHub**
+- 🌱 I’m currently building a project **VoiceHub** using MERN & exploring WebRTC
 
 - 💬 Ask me about **ReactJS, Node.js, Express.js, MongoDB**
 
