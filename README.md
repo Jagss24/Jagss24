@@ -2,7 +2,9 @@
 <h1 align="center">Hi 👋, I'm Jagannath Samantra</h1>
 <h3 align="center">I'm a MERN Stack developer skilled in both front-end and back-end development.</h3>
 
-- 🌱 I’m currently learning **NextJS**
+- 👨‍💻 React Developer By Profession
+
+- 🌱 I’m currently building a project **VoiceHub**
 
 - 💬 Ask me about **ReactJS, Node.js, Express.js, MongoDB**
 
