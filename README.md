@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQG6q16F5ECxqQ/profile-displaybackgroundimage-shrink_350_1400/0/1687267499269?e=1725494400&v=beta&t=QLdk52TWtzEI4cLUuvVKUE-7u9j3WDtQ7cYWehkr3Wo)
+![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQG6q16F5ECxqQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1687267499269?e=1731542400&v=beta&t=MdihKXTJoPjWVJJ6fTAAwkdmo2WCfBwsraBHfzy9OIU)
 <h1 align="center">Hi 👋, I'm Jagannath Samantra</h1>
 <h3 align="center">I'm a React developer but skilled in both front-end and back-end development.</h3>
 
