@@ -4,7 +4,7 @@
 
 - 👨‍💻 React Developer By Profession
 
-- 🌱 I’m currently building a project **VoiceHub** using MERN & exploring WebRTC
+- 🌱 I’m currently learning **Next Js** by building a project
 
 - 💬 Ask me about **ReactJS, Node.js, Express.js, MongoDB**
 
