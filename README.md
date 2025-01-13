@@ -9,7 +9,7 @@
 
 - 📫 How to reach me [Click Here](mailto:samantrajagannath@gmail.com)
 
-- 📄 Get my resume here [RESUME](https://drive.google.com/file/d/14z-r54cuLHyvIKvQieKArwmBQYrm-GvM/view)
+- 📄 Get my resume <a href="https://drive.google.com/file/d/1CdrXWoSGkl7d_Tsy6bwYh9ZOUL5aunLC/view?usp=sharing" target="_blank">Click Here</a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jagss24&label=Profile%20views&color=0e75b6&style=flat" alt="jagss24" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jagss24" alt="jagss24" /></a> </p>
